@@ -3,7 +3,7 @@
 A simple Python-based GUI application that organizes your messy folder by sorting files into categories like Documents, Images, Videos, etc.
 
 ## 📷 Preview
-![File Organizer Banner](banner.png)
+![File Organizer Banner](https://github.com/NudratAbbas/File-Organizer-Bot-Sort-Your-Files-in-One-Click-Python-GUI-)
 
 ## 🚀 Features
 - Clean GUI with folder selection
